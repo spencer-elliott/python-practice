@@ -1,5 +1,6 @@
 #
 # LeetCode #1: Two Sum
+# https://leetcode.com/problems/two-sum/
 #
 
 def two_sum(nums: list[int], target: int) -> list[int]:
